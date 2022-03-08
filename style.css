@@ -1,0 +1,35 @@
+.bg-orange {
+    background-color:rgb(230, 135, 10) !important;
+}
+
+.nav-link{
+    background: grey;
+    margin-right: 1rem;
+}
+
+.nav-link:hover{
+    background: black;
+}
+
+.navbar .nav-link:hover{
+    color: red !important;
+}
+
+.image-fill{
+    border: 1px solid;
+    width: 150px;
+    height: 100px;
+}
+.presentation{
+    margin-top:2rem;
+}
+
+.photo {
+    width: 100%;
+}
+
+.photo img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
